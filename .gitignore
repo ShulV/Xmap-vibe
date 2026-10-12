@@ -1,0 +1,28 @@
+# JVM & Build Tools
+target/
+build/
+.gradle/
+*.class
+*.jar
+*.war
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.ipr
+*.iws
+
+# Node & Frontend
+node_modules/
+dist/
+.npm/
+
+# Logs & Environment
+*.log
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
